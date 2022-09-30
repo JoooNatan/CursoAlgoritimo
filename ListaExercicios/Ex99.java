@@ -6,7 +6,7 @@ public class Ex99 {
         res = (int) Math.pow(base, expoente);
         return res;
     }
-
+    
     public static void main(String[] args) {
         int base, expoente;
         int res;
